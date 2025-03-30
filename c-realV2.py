@@ -94,9 +94,9 @@ if version.parse('1.5.1') > version.parse(discord.__version__):
     exit()
 
 settings = {
-        "token": None,
+        "token": MTM1NTk4MTU2MTI5OTczNDY0OQ.G517O-.ZMz8YDPpLteoFIK_wJJjaAj6pbyGRZrjUsA0mg,
         "permissions": [],
-        "bot_permission": "2146958847",
+        "bot_permission": "1317242584170500107",
         "command_prefix": ".",
         "bot_status": "offline",
         "verbose": 15,
